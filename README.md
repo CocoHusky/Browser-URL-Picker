@@ -80,4 +80,4 @@ npm run zip
 
 The packaged extension is written to `dist/url-picker-v0.1.0.zip`. The `dist/` folder is generated locally and is not kept in the repository.
 
-The extension keeps `extension/icons/icon.png` as the source icon and uses generated `16`, `48`, and `128` PNGs in the Chrome manifest.
+Uses `extension/icons/icon.png` as the source icon and uses generated `16`, `48`, and `128` PNGs in the Chrome manifest.
