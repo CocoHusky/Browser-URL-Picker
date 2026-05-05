@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2026-05-05
+
+### Changed
+- Renamed extension and documentation from URL Picker to URL-Pull
+- Updated manifest name, popup title, store listing, and documentation references
+
 ## [1.2.0] - 2026-05-05
 
 ### Added
@@ -28,7 +34,7 @@ All notable changes to this project will be documented in this file.
 ## [1.1.0] - 2026-05-04
 
 ### Added
-- Initial release of URL Picker extension
+- Initial release of URL-Pull extension
 - Export functionality for current tab, current window, or all browser windows
 - Grouping of multi-tab exports by browser window with summary tables
 - Saved context text feature added to the top of exports

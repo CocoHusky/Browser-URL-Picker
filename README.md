@@ -1,6 +1,6 @@
-# URL Picker
+# URL-Pull
 
-URL Picker is a Chrome extension for collecting tab titles and URLs from the current tab, the current browser window, or every open browser window. The generated text can be copied to the clipboard or downloaded as Markdown or plain text.
+URL-Pull is a Chrome extension for collecting tab titles and URLs from the current tab, the current browser window, or every open browser window. The generated text can be copied to the clipboard or downloaded as Markdown or plain text.
 
 ## Features
 
@@ -86,7 +86,7 @@ The context field is saved in the extension with `chrome.storage.local`. The tex
 
 ## Privacy
 
-URL Picker runs locally in the browser. It does not send tab data, saved context text, or generated exports to any server. See [PRIVACY.md](PRIVACY.md).
+URL-Pull runs locally in the browser. It does not send tab data, saved context text, or generated exports to any server. See [PRIVACY.md](PRIVACY.md).
 
 ## Usage
 
@@ -110,7 +110,7 @@ Build the extension ZIP:
 npm run zip
 ```
 
-The packaged extension is written to `dist/url-picker-v1.1.0.zip`. The `dist/` folder is generated locally and is not kept in the repository.
+The packaged extension is written to `dist/url-pull-chrome-v1.2.0.zip`. The `dist/` folder is generated locally and is not kept in the repository.
 
 Uses `extension/icons/icon.png` as the source icon and uses generated `16`, `48`, and `128` PNGs in the Chrome manifest.
 
@@ -122,5 +122,5 @@ Before uploading:
 
 1. Run `npm run check`.
 2. Run `npm run zip`.
-3. Upload `dist/url-picker-v1.1.0.zip` in the Chrome Developer Dashboard.
-4. Confirm the uploaded package shows version `1.1.0`.
+3. Upload `dist/url-pull-chrome-v1.2.0.zip` in the Chrome Developer Dashboard.
+4. Confirm the uploaded package shows version `1.2.0`.

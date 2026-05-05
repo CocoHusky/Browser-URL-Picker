@@ -2,7 +2,7 @@
 
 ## Name
 
-URL Picker
+URL-Pull
 
 ## Short Description
 
@@ -10,13 +10,13 @@ Copy or download tab titles and URLs from the current tab, current window, or al
 
 ## Detailed Description
 
-URL Picker helps collect browser tab titles and URLs into a clean text export.
+URL-Pull helps collect browser tab titles and URLs into a clean text export.
 
 Choose the current tab, current window, or all open browser windows. Multi-window exports are grouped by browser window. Add optional saved context text to the top of each export, then copy the result or download it as Markdown or JSON.
 
 Filters are enabled by default for Google Search tabs, non-http(s) pages, and duplicate URLs.
 
-URL Picker runs locally in the browser. It does not send tab data or saved context text to any server.
+URL-Pull runs locally in the browser. It does not send tab data or saved context text to any server.
 
 ## Category
 
@@ -24,7 +24,7 @@ Productivity
 
 ## Single Purpose
 
-URL Picker exports tab titles and URLs selected by the user from the current tab, current window, or all open browser windows.
+URL-Pull exports tab titles and URLs selected by the user from the current tab, current window, or all open browser windows.
 
 ## Permission Justifications
 
@@ -38,7 +38,7 @@ Used to save the optional context text entered by the user in the popup.
 
 ## Privacy Summary
 
-URL Picker handles tab titles, tab URLs, and user-entered context text locally. It does not collect, transmit, sell, or share user data.
+URL-Pull handles tab titles, tab URLs, and user-entered context text locally. It does not collect, transmit, sell, or share user data.
 
 ## Suggested Screenshots
 
